@@ -76,16 +76,16 @@
 
 ```ts
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["941598856@s.whatsapp.net"],
+    "ownerName": "charu offecial bot ×፝֟͜×",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "botName": "tharu bot",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
-    "auto_leaveMsg": true,    
+    "auto_leaveMsg": false,    
     "autobio": true,
     "anticall": true,
     "autorespond": false,
